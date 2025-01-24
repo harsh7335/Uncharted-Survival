@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://dfassjihqv8lj"]
+
+[ext_resource type="AudioStream" uid="uid://d3j2m10scfebf" path="res://assets/Musics/1 - Adventure Begin.ogg" id="1_upwmx"]
+
+[node name="music" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_upwmx")
+autoplay = true
